@@ -1,4 +1,4 @@
-# Responsive Restaurant website using Html, Css and JavaScript.
+### Responsive Restaurant website using Html, Css and JavaScript.
 
 ![Food website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg?raw=true)
 
