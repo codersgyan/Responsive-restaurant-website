@@ -1,6 +1,6 @@
 ### Responsive Restaurant website using Html, Css and JavaScript.
 
-![Food website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg?raw=true)
+![Locator using Leaflet](https://github.com/codersgyan/leaflet-store-locator/blob/main/locator.gif)
 
 
 #### Demo: https://codersgyan.github.io/Responsive-restaurant-website/
