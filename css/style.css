@@ -371,11 +371,11 @@ section.top-products{
 section.top-products .food-slider .food-card{
     background:var(--heaven);
     padding:1.5rem 0;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    -ms-border-radius: 4px;
-    -o-border-radius: 4px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
 }
 section.top-products .food-slider .food-card .product-image img{
     width:80%;
@@ -514,11 +514,16 @@ section.our-services .service-card{
     padding-top:4rem;
     margin-right:2rem;
     position: relative;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    -ms-border-radius: 4px;
-    -o-border-radius: 4px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+section.our-services .service-card:hover{
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    box-shadow:2px 2px 6px gray;
 }
 section.our-services .service-card .icon{
     position: absolute;
